@@ -1,2 +1,2 @@
 #!/bin/bash
-wc --char "bin" /etc/passwd
+wc /etc/passwd "root"
